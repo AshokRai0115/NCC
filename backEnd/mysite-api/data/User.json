@@ -1,0 +1,18 @@
+{
+    "message": "Data retrieved sucessfully",
+    "status": "sucessful",
+    "data": [
+        {
+            "user_id": 1,
+            "username": "ashok",
+            "display_name": "Ashok Dada Don",
+            "post": "Intern",
+            "following_count": 25,
+            "follower_count": 200,
+            "address": "Chabahil",
+            "email": "ashok.bono@gmail.com",
+            "gender": "m",
+            "edu_qualification": "BCA"
+        }
+    ]
+}

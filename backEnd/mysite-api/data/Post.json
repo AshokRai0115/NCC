@@ -1,0 +1,54 @@
+{
+    "message": "Data retrieved sucessfully",
+    "status": "sucessful",
+    "data": [{
+        "id": "1",
+        "name": "Shraddha Dongol",
+        "location": "Norway",
+        "position": "Chief Java Developer",
+        "work_nature": "Freelance",
+        "pay_rate": "30",
+        "description": "Enthusiast Java developer. Worked in many core projects. Developed free libraries.",
+        "skills": ["frontend", "backend", "Spring boot", "Hibernate"],
+        "like_count": "3M",
+        "comments": ["cmt1", "cmt2"],
+        "comment_count": "2M",
+        "views": "25M",
+        
+        "post_datetime": 1
+    },
+    {
+        "id": "2",
+        "name": "Ankit",
+        "location": "United States",
+        "position": "Senior Architect Developer",
+        "work_nature": "Full Time",
+        "pay_rate": "20",
+        "description": "Enthusiast Java developer. Worked in many core projects. Developed free libraries.",
+        "skills": ["frontend", "backend", "SEO"],
+        "like_count": "25k",
+        "comments": ["cmt1", "cmt2"],
+        "comment_count":"1k",
+        "views": "25k",
+        
+        "post_datetime": 30
+    },
+    
+    {
+        "id": "3",
+        "name": "Rajesh",
+        "location": "Finland",
+        "position": "Senior UI developer",
+        "work_nature": "Part Time",
+        "pay_rate": "10",
+        "description": "Enthusiast Java developer. Worked in many core projects. Developed free libraries.",
+        "skills": ["frontend", "HTML", "CSS", "Figma"],
+        "like_count": "33k",
+        "comments": ["cmt1", "cmt2"],
+        "comment_count": "5k",
+        "views": "300k",
+        
+        "post_datetime": 40
+    }
+    ]
+}
